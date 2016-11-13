@@ -7,7 +7,7 @@ I can only speculate further as to why programming is important in todays world 
 
 My first tryst with programming was back in high-school with C. I had learnt C one summer by reading this book I found called 'Let us C.' Over time, however, due to lack of practice and use I forgot most of the stuff. It didn't help that I was persuing an education in a discipline that had little need of or exposure to programming(or so I was was led to believe.)  
 
-After graduating with a degree is commerce and business I went on to get a Masters in Finance and started developing a keen interest in Capital markets and their workings. It was in pursuit of this interest that I realised how technology was being harnessed for a wide variety of applications in this field  like trading, model testing, analysis, quantitative studies, statistical work, etc. My rusty knowledge of an old programming language, however, was of no practical value in doing any of this. So I have set out to learn python to help me work better.
+
 
 I picked up a little python from the internet through tutorials and classes(none of which I have been able to complete so far.) Thankfully some of my old involvement with C has come in handy and I haven't had to start from scratch. So far, I have written scripts that help me populate spreadsheets, fetch stock data, etc. And I am hopeful that as I continue to learn my skills will become useful in more ways.
 
