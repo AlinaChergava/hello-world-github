@@ -1,0 +1,16 @@
+Programming is definitely important. Hundreds of universities, thousands of professors, and scores and scores of students and practitioners teaching, learning and practicing the discipline are enough testimony to the fact. Some of the more obvious reasons programming is important are:
+To interact with machines and computers
+To harness the power of computing in all human endeavor
+To automate tasks
+To create intelligent machines,etc
+I can only speculate further as to why programming is important in todays world or to different people. What I can do is to elaborate on why programming (do I dare call my humble scripts actual programs?) is important to me and that is exactly what I am going to do.
+
+My first tryst with programming was back in high-school with C. I had learnt C one summer by reading this book I found called 'Let us C.' Over time, however, due to lack of practice and use I forgot most of the stuff. It didn't help that I was persuing an education in a discipline that had little need of or exposure to programming(or so I was was led to believe.)  
+
+After graduating with a degree is commerce and business I went on to get a Masters in Finance and started developing a keen interest in Capital markets and their workings. It was in pursuit of this interest that I realised how technology was being harnessed for a wide variety of applications in this field  like trading, model testing, analysis, quantitative studies, statistical work, etc. My rusty knowledge of an old programming language, however, was of no practical value in doing any of this. So I have set out to learn python to help me work better.
+
+I picked up a little python from the internet through tutorials and classes(none of which I have been able to complete so far.) Thankfully some of my old involvement with C has come in handy and I haven't had to start from scratch. So far, I have written scripts that help me populate spreadsheets, fetch stock data, etc. And I am hopeful that as I continue to learn my skills will become useful in more ways.
+
+So programming is important to me because it helps me do my work better, faster and in a more efficient manner. Besides this, the constant endeavor to learn and practice keeps me invigorated and energized. The sense of achievement and success when you finally get a script to work the way you want, just cannot be expressed in words. I can honestly say that learning to program has been a very fruitful experience so far. And this is why programming is important to me.
+
+Having said all this, I wouldn't go so far as to suggest that programming is for everybody and that learning to code should for a compulsory part of education or anything. Programming is a skill set, an essential and fulfilling skill-set to have but not a requirement. There are all sorts of people and activities out there who wouldn't or need't learn to program. As for the rest of us: there are assignments due and work to be done.
